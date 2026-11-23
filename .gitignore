@@ -1,0 +1,8 @@
+# Workspace-only working files (competition data, kit download, logs) — not part of the entry.
+kit/
+competition.json
+requirements.json
+rules_from_api.txt
+kit_retry.log
+output/
+__pycache__/
